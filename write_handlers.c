@@ -2,10 +2,10 @@
 
 /************************* WRITE HANDLE *************************/
 /**
- * handle_write_char - Prints a string
- * @c: char types.
- * @buffer: Buffer array to handle print
- * @flags:  Calculates active flags.
+ * handle_write_char - Prints string
+ * @c: char types
+ * @buffer: Buffer array to handle the print
+ * @flags:  Calculates the active flags.
  * @width: get width.
  * @precision: precision specifier
  * @size: Size specifier
